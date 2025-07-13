@@ -1,11 +1,17 @@
 # Animation Playground
-A space to play around animations and receate things I like on internet :)
+A space to play around animations // recreate things I like on the internet
 
 ## List Of Items
 1. Card with images
-   
-[link to code](https://github.com/Dksie09/animation-playground/blob/main/src/components/mountain-hike.tsx)
+   - [link to code](https://github.com/Dksie09/animation-playground/blob/main/src/components/mountain-hike.tsx)
+   - [inspo](https://x.com/markoilico/status/1936816258525356227)
 
-https://github.com/user-attachments/assets/025789a7-9e72-4c4f-9184-5f741c8a0e1b
+## Tech used
+- Tailwindcss
+- Motion
+- Typescript
+- Next.js
 
-Lincense
+
+## Lincense
+[MIT](https://github.com/Dksie09/animation-playground/blob/main/LICENSE)
